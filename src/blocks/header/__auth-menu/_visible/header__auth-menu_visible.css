@@ -1,0 +1,7 @@
+.header__auth-menu_visible {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-bottom: rgba(84, 84, 84, .7) solid 1px;
+  }

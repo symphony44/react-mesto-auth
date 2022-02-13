@@ -1,0 +1,8 @@
+.header__auth-link_signout {
+    color: #c9c9c9;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    max-width: 60px;
+  }

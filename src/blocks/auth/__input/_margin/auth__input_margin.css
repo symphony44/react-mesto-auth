@@ -1,0 +1,3 @@
+.auth__input_margin:not(:last-of-type) {
+    margin: 0 0 30px;
+  }
